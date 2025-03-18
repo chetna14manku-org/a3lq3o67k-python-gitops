@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: a3lq3o67k-python-repository
+spec:
+  url: https://github.com/chetna14manku-org/a3lq3o67k-python
